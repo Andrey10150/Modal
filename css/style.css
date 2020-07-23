@@ -38,8 +38,9 @@ header p {
   margin-bottom: 30px;
 }
 
-.subscribe-section button {
+.subscribe-section .modal-btn {
   font-style: italic;
+  border: none;
 }
 
 .subscribe-section button {
@@ -106,4 +107,5 @@ header p {
   height: 40px;
   color: white;
   background: #1c1cff;
+  border: none;
 }
